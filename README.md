@@ -1,5 +1,5 @@
 # Weather-App
-<image width="100%" src="desktop.changes02.png" frameborder="0" ></image>
+<image width="100%" src="./UI-Preview/desktop.changes02.png" frameborder="0" ></image>
 
 </br>
 </br>
@@ -23,4 +23,4 @@ Background image **changes depending on time.**
 </br>
 </br>
 
-
+<image width="100%" src="./UI-Preview/desktop.changes03.png" frameborder="0" ></image>
